@@ -23,10 +23,17 @@ A collaborative group project involving Thomas Kidd, Johnathan Padilla, Kenneth 
 * Here is a common git workflow for reference:
 
 > $ git init
+
   $ git status
+  
   $ git pull https://github.com/HP-Nunes/Academy-of-Py.git
+  
   $ git add . #
+  
   $ git commit -m "COMMENTS ABOUT UPDATE/FILES"
+  
   $ git push origin master
+  
   /OR git push https://github.com/HP-Nunes/Academy-of-Py.git master
+  
   $ git status
