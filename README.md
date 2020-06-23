@@ -24,16 +24,15 @@ A collaborative group project involving Thomas Kidd, Johnathan Padilla, Kenneth 
 
 > $ git init
 
-  $ git status
+> $ git status
   
-  $ git pull https://github.com/HP-Nunes/Academy-of-Py.git
+> $ git pull git@github.com:HP-Nunes/DSMP_Air-Pollution-Project.git
   
-  $ git add . #
+> $ git add . #
   
-  $ git commit -m "COMMENTS ABOUT UPDATE/FILES"
+> $ git commit -m "COMMENTS ABOUT UPDATE/FILES"
   
-  $ git push origin master
+>  $ git push origin master
   
-  /OR git push https://github.com/HP-Nunes/Academy-of-Py.git master
-  
-  $ git status
+>  /OR git push git@github.com:HP-Nunes/DSMP_Air-Pollution-Project.git master 
+>  $ git status
