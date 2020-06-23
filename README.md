@@ -2,7 +2,7 @@
 
 ![alt text](readMe_assets/img/dsmpBanner.png "Banner")
 ## A group project within the scope of TechSoup and ParsonsTKO Summer 2020 Data Strategy Mentorship Program on the impact of air pollution.
-***
+
 A collaborative group project involving Thomas Kidd, Johnathan Padilla, Kenneth Lee, and Hadrien Picq; as fellows in the TechSoup and ParsonsTKO Summer 2020 Data Strategy Mentorship Program.
 ***
 ## Group Resources
@@ -68,3 +68,18 @@ As we move on towards next week, I think we ought to define a problem statement 
 Some updates (in addition to Johnathan's) were made to the group project's G-Sheet that Katia created on Monday, for an outline of the project moving forward. Please consult or make updates, it might help to clarify the direction of the project: https://docs.google.com/spreadsheets/d/1b8Iz3hi6WLKfd2-2N4bico8ALo4iXMH0OJGz9QcvlfU/edit#gid=1527921858
 
 <em>Again, if any of you guys have questions, issues, or ambiguity moving forward, please communicate. Even if your availability is subject to change on a given day or week, we'll do our best to make it work.</em>
+
+***
+## Tech Stack
+
+* Jupyter Notebook
+* Python 3.8. 3
+
+Packages:
+* pandas
+* tqdm
+* sqlalchemy
+* matplotlib
+* seaborn
+* requests
+* os
