@@ -37,7 +37,7 @@ A collaborative group project involving Thomas Kidd, Johnathan Padilla, Kenneth 
 >  /OR git push git@github.com:HP-Nunes/DSMP_Air-Pollution-Project.git master <br>
 >  $ git status
 ***
-## Currently on the Agenda
+## Currently on the Agenda 06/23
 
 <b>Update: Agenda Setting for this week, and what to expect for the next meeting</b>
 
