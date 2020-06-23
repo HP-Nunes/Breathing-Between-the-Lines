@@ -34,5 +34,5 @@ A collaborative group project involving Thomas Kidd, Johnathan Padilla, Kenneth 
   
 >  $ git push origin master
   
->  /OR git push git@github.com:HP-Nunes/DSMP_Air-Pollution-Project.git master 
+>  /OR git push git@github.com:HP-Nunes/DSMP_Air-Pollution-Project.git master <br>
 >  $ git status
