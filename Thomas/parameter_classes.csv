@@ -1,0 +1,27 @@
+,code,value_represented
+0,AIRNOW MAPS,"The parameters represented on AirNow maps (88101, 88502, and 44201)"
+1,ALL,Select all Parameters Available
+2,AQI POLLUTANTS,Pollutants that have an AQI Defined
+3,CORE_HAPS,Urban Air Toxic Pollutants
+4,CRITERIA,Criteria Pollutants
+5,CSN DART,List of CSN speciation parameters to populate the STI DART tool
+6,FORECAST,Parameters routinely extracted by AirNow (STI)
+7,HAPS,Hazardous Air Pollutants
+8,IMPROVE CARBON,IMPROVE Carbon Parameters
+9,IMPROVE_SPECIATION,PM2.5 Speciated Parameters Measured at IMPROVE sites
+10,MET,Meteorological Parameters
+11,NATTS CORE HAPS,The core list of toxics of interest to the NATTS program.
+12,NATTS REQUIRED,Required compounds to be collected in the National Air Toxics Network
+13,PAMS,Photochemical Assessment Monitoring System
+14,PAMS_VOC,Volatile Organic Compound subset of the PAMS Parameters
+15,PM COARSE,PM between 2.5 and 10 micrometers
+16,PM10 SPECIATION,PM10 Speciated Parameters
+17,PM2.5 CONT NONREF,"PM2.5 Continuous, Nonreference Methods"
+18,PM2.5 MASS/QA,PM2.5 Mass and QA Parameters
+19,SCHOOL AIR TOXICS,School Air Toxics Program Parameters
+20,SPECIATION,PM2.5 Speciated Parameters
+21,SPECIATION CARBON,PM2.5 Speciation Carbon Parameters
+22,SPECIATION CATION/ANION,PM2.5 Speciation Cation/Anion Parameters
+23,SPECIATION METALS,PM2.5 Speciation Metal Parameters
+24,UATMP CARBONYL,Urban Air Toxics Monitoring Program Carbonyls
+25,UATMP VOC,Urban Air Toxics Monitoring Program VOCs
