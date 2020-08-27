@@ -1,4 +1,4 @@
-# DSMP_Air-Pollution-Project
+# Breathing Between the Lines: the legacy of red-lining on risk factors of air pollution in Seattle, WA
 
 ![alt text](readMe_assets/img/dsmpBanner.png "Banner")
 ## A group project within the scope of TechSoup and ParsonsTKO Summer 2020 Data Strategy Mentorship Program on the impact of air pollution.
