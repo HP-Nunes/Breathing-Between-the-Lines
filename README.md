@@ -4,10 +4,15 @@
 A collaborative project by Hadrien Picq and Johnathan Padilla
 
 ## Final project for the TechSoup and ParsonsTKO Summer 2020 Data Strategy Mentorship Program.
-The project was presented on August 25th, 2020, and can be viewed and accessed: https://parsonstko.com/data-for-social-impact-conference/
+
+This project was presented and recorded on August 25th, 2020 for ParsonsTKO's Data for Social Impact: Racial and Economic Justice Conference. The presentation's material and recording can be accessed at https://parsonstko.com/data-for-social-impact-conference/
+
+A storymap of the content is also accessible:
+
+![alt text](readMe_assets/img/storymap.png "storymap")
 
 ### Summary
-For decades, the US mortgage industry systematically denied mortgages to people of color through the practice of red-lining, which institutionalized racial segregation. This project team’s analysis focuses on Seattle, linking the city’s history of red-lining with current air pollution levels and health trends. Their data suggests that previously red-lined areas suffer from higher rates of pollution and asthma today than communities zoned as “desirable” in the 1940s. It also finds that people of color are currently underrepresented in air monitoring coverage in Seattle.
+
 
 ![alt text](readMe_assets/img/final_map.jpg "Final multi-criteria map")
 ***
