@@ -102,8 +102,7 @@ Looking at areas selected under the PSCAA's Focus Communities Program, only the 
 
 Four general areas with adjacent neighborhoods identified in the top quantile were identified, they are: Northgate, Delridge, Rainer Valley, and the Central District (downtown-industrial area). With the exception of Northgate, which was not incorporated into the city of Seattle in 1936, these four areas bear strong overlaps with unfavorable HOLC grades of security.
 
-:-------------------------:|:-------------------------:
-![alt text](readMe_assets/img/slide13.jpg "Ranked") |  ![alt text](readMe_assets/img/slide14.jpg "Overlay, redlining")
+![alt text](readMe_assets/img/slide13.jpg "Ranked")  ![alt text](readMe_assets/img/slide14.jpg "Overlay, redlining")
 
 
 ***
