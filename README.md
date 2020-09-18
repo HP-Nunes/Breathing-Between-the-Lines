@@ -1,7 +1,8 @@
 # Breathing Between the Lines: the legacy of red-lining on risk factors of air pollution in Seattle, WA
-A collaborative project by Hadrien Picq and Johnathan Padilla
 
 ![alt text](readMe_assets/img/banner2.png "Banner")
+A collaborative project by Hadrien Picq and Johnathan Padilla
+
 ## Final project for the TechSoup and ParsonsTKO Summer 2020 Data Strategy Mentorship Program.
 The project was presented on August 25th, 2020, and can be viewed and accessed: https://parsonstko.com/data-for-social-impact-conference/
 
@@ -32,22 +33,26 @@ The Racial and Social Equity Index combines information on race, ethnicity, and 
 ![alt text](readMe_assets/img/feat2.jpg "2020 Racial and Social Equity Composite Index")
 
 3. Zone of coverage of PurpleAir's sensors in Seattle, WA.
+<br>
 Data Source: https://www.purpleair.com/map#15.19/37.781857/-122.489357
 
 ![alt text](readMe_assets/img/feat3.jpg "PSCAA data")
 
-4. Community Anchor Institutions 
+4. Community Anchor Institutions
+<br>
 Data Source (public schools): https://data-seattlecitygis.opendata.arcgis.com/datasets/a2e1128bd7a041358ce455c628ec9834_8
 Data Source (public libraries): https://data-seattlecitygis.opendata.arcgis.com/datasets/seattle-public-libraries
 
 ![alt text](readMe_assets/img/feat4.jpg "PSCAA data")
 
 5. 2018 Seattle Traffic Count
+<br>
 Data Source: https://data.seattle.gov/Land-Base/2018-Traffic-Flow-Counts/e9vy-mn8x
 
 ![alt text](readMe_assets/img/feat5.jpg "PSCAA data")
 
 6. Proximity to Major Traffic Arteries (Interstates I-5 and I-90)
+<br>
 Data Source: https://data.seattle.gov/Land-Base/Street-Network-Database-SND-/nvgs-5agd
 
 ![alt text](readMe_assets/img/feat6.jpg "PSCAA data")
@@ -75,6 +80,8 @@ Packages:
 [An Introduction to Data Collection: Pulling OpenAQ Data from AWS S3 using AWS Athena](https://medium.com/@johnathan.d.padilla/an-introduction-to-data-collection-pulling-openaq-data-from-s3-using-aws-athena-26863b97c5cb) by Johnathan Padilla
 
 [An Introduction to Data Cleaning: Using Regular Expressions to Clean your Data](https://medium.com/@johnathan.d.padilla/an-introduction-to-data-cleaning-using-regular-expressions-to-clean-your-data-9684ccfac74c) by Johnathan Padilla
+
+[Spatial Intersects with Geopandas](https://medium.com/analytics-vidhya/spatial-intersects-with-geopandas-420c98915ca9) by Hadrien Picq
 
 ### Reference notebooks:
 
