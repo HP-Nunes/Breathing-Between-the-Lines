@@ -80,8 +80,11 @@ According to the [Center for Disease Control](https://ephtracking.cdc.gov/showPr
 
 ![alt text](readMe_assets/img/feat6.jpg "PSCAA data")
 
-##### Part II: 
+##### Part II: Converting the Composite Indice from Raster to Vector
 
+![alt text](readMe_assets/img/calc.PNG "raster calculator")
+
+![alt text](readMe_assets/img/part2.jpg "Part 2, steps")
 
 ***
 ## Tech Stack
