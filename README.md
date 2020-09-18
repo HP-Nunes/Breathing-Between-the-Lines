@@ -17,6 +17,7 @@ For decades, the US mortgage industry systematically denied mortgages to people 
 <b> Part I: Feature Selection & Weight Assignment </b>
 
 1. Puget Sound Clean Air Agency (PSCAA)’s 2014 Cumulative Risk Assessment: Highly Impacted Communities
+
 Data Source: https://pscleanair.gov/300/Documents
 
 This study from the PSCAA informs its community selection in King's County to implement its [Focus Communities program](https://www.pscleanair.gov/382/Focus-Communities), which involves community-level planning and programming. The composite data was retained solely for the city of Seattle, and assigned weights based on the study's quantile ranking.
@@ -24,6 +25,7 @@ This study from the PSCAA informs its community selection in King's County to im
 ![alt text](readMe_assets/img/feat1.jpg "PSCAA data")
 
 2. Office of Planning & Community Development Seattle GeoData’s 2020 Racial and Social Equity Composite Index
+
 Data Source: https://data-seattlecitygis.opendata.arcgis.com/datasets/225a4c2c50e94f2cb548a046217f49f7_0
 
 The Racial and Social Equity Index combines information on race, ethnicity, and related demographics with data on socioeconomic and health disadvantages to identify where priority populations make up relatively large proportions of neighborhood residents. We included specifically the Composite Disadvantage composite index due to its emphasis on socio-economic determinants of healths, many of which are shared concerns as reflected in the PSCAA's [Focus Communities program](https://www.pscleanair.gov/382/Focus-Communities) (highlighted below). Weights were assigned based on the index's quantile ranking.
@@ -33,26 +35,27 @@ The Racial and Social Equity Index combines information on race, ethnicity, and 
 ![alt text](readMe_assets/img/feat2.jpg "2020 Racial and Social Equity Composite Index")
 
 3. Zone of coverage of PurpleAir's sensors in Seattle, WA.
-<br>
+
 Data Source: https://www.purpleair.com/map#15.19/37.781857/-122.489357
 
 ![alt text](readMe_assets/img/feat3.jpg "PSCAA data")
 
 4. Community Anchor Institutions
-<br>
+
 Data Source (public schools): https://data-seattlecitygis.opendata.arcgis.com/datasets/a2e1128bd7a041358ce455c628ec9834_8
+
 Data Source (public libraries): https://data-seattlecitygis.opendata.arcgis.com/datasets/seattle-public-libraries
 
 ![alt text](readMe_assets/img/feat4.jpg "PSCAA data")
 
 5. 2018 Seattle Traffic Count
-<br>
+
 Data Source: https://data.seattle.gov/Land-Base/2018-Traffic-Flow-Counts/e9vy-mn8x
 
 ![alt text](readMe_assets/img/feat5.jpg "PSCAA data")
 
 6. Proximity to Major Traffic Arteries (Interstates I-5 and I-90)
-<br>
+
 Data Source: https://data.seattle.gov/Land-Base/Street-Network-Database-SND-/nvgs-5agd
 
 ![alt text](readMe_assets/img/feat6.jpg "PSCAA data")
