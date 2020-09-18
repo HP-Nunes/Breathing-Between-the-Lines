@@ -82,9 +82,29 @@ According to the [Center for Disease Control](https://ephtracking.cdc.gov/showPr
 
 ##### Part II: Converting the Composite Indice from Raster to Vector
 
+After converting all our features of interest into discrete raster layer, I used the "raster calculator" tool in QGIS to sum of weights into a composite raster layer.
+
 ![alt text](readMe_assets/img/calc.PNG "raster calculator")
 
+The composite raster was then converted into a vector layer, averaging the sum of weights for each nieghborhoods, and subsequently categorized into quantiles.
+
 ![alt text](readMe_assets/img/part2.jpg "Part 2, steps")
+
+##### Part III: Overlays and Observations
+
+The multi-criteria analysis identified 11 of the 22 neighborhoods designated under the PSCAA's 2014 Risk Assessment, within the top quantile.
+
+![alt text](readMe_assets/img/slide11.jpg "Overlay, CAA")
+
+Looking at areas selected under the PSCAA's Focus Communities Program, only the Chinatown-International District neighborhood was within the analysis' top quantile.
+
+![alt text](readMe_assets/img/slide12.jpg "Overlay, Focus Communities Program")
+
+Four general areas with adjacent neighborhoods identified in the top quantile were identified, they are: Northgate, Delridge, Rainer Valley, and the Central District (downtown-industrial area). With the exception of Northgate, which was not incorporated into the city of Seattle in 1936, these four areas bear strong overlaps with unfavorable HOLC grades of security.
+
+:-------------------------:|:-------------------------:
+![alt text](readMe_assets/img/slide13.jpg "Ranked") |  ![alt text](readMe_assets/img/slide14.jpg "Overlay, redlining")
+
 
 ***
 ## Tech Stack
