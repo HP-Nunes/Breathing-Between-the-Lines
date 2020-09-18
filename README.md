@@ -8,7 +8,21 @@ The project was presented on August 25th, 2020, and can be viewed and accessed: 
 ### An analysis about urban inequities in air quality
 For decades, the US mortgage industry systematically denied mortgages to people of color through the practice of red-lining, which institutionalized racial segregation. This project team’s analysis focuses on Seattle, linking the city’s history of red-lining with current air pollution levels and health trends. Their data suggests that previously red-lined areas suffer from higher rates of pollution and asthma today than communities zoned as “desirable” in the 1940s. It also finds that people of color are currently underrepresented in air monitoring coverage in Seattle.
 ***
+#### Multi-Criteria Weighted Overlay to identify neighborhoods of Seattle suitable for community-level air monitoring strategies
+
 ![alt text](readMe_assets/img/MultiCriteria_GIF.gif "Banner")
+
+<b> Part I: Feature Selection & Weight Assignment </b>
+
+1. Puget Sound Clean Air Agency (PSCAA)’s 2014 Cumulative Risk Assessment: Highly Impacted Communities
+Data Source: https://pscleanair.gov/300/Documents
+
+This study from the PSCAA informs its community selection in King's County to implement its [Focus Communities program](https://www.pscleanair.gov/382/Focus-Communities), which involves community-level planning and programming. I retained the composite data only for the city of Seattle, and assigned weights based on the study's quantile ranking.
+
+![alt text](readMe_assets/img/feat1.jpg "PSCAA data")
+
+
+
 ***
 ## Tech Stack
 
