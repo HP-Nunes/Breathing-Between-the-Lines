@@ -13,6 +13,9 @@ A storymap of the content is also accessible:
 
 ### Summary
 
+Fine Particulate pollution is an ubiquitous and major environmental threat to health. Furthermore, the burden of air pollution in U.S. cities correspond to socio-economic determinants of health, which can be traced to the legacy of redlining. This research identified neighborhoods in Seattle, CA using multiple indicators of vulnerability to 1) inform appropriate agencies and regulators on where to deploy local interventions to redress inequities of air pollution, and 2) to inform the general public about the link to the current threat of urban air pollution and the historical legacy of discrimination.
+
+Our research four general areas in the city of Seattle that have inadequate local monitoring coverage and are vulnerable to burdens of pollution. 3 of the 4 areas bear strong overlap with unfavorable ratings by the Homeowner Loan Corporation, the federal agency responsible for assigning grades of security to neighborhoods across the U.S. We recommend that risk assessment ought to both leverage local knowledge about impacted communities, and consider historical processes in understanding contemporary societal inequities.
 
 ![alt text](readMe_assets/img/final_map.jpg "Final multi-criteria map")
 ***
@@ -109,6 +112,15 @@ Four general areas with adjacent neighborhoods identified in the top quantile we
 
 ![alt text](readMe_assets/img/slide13.jpg "Ranked")  ![alt text](readMe_assets/img/slide14.jpg "Overlay, redlining")
 
+##### Part IV: Redlining
+
+We observed that the areas designated within the top quantile of our analysis bear a strong overlap with unfavorable HOLC's grades of security, with the exception of the Northgate Area. We must also stress that there are other factors of residential segregation that cannot be solely be explained by redlining, such as racially discriminatory residential covenants. We also look at the distribution of vulnerable age groups suceptible to asthma within those areas.
+
+![alt text](readMe_assets/img/redline1.jpg "redline")  ![alt text](readMe_assets/img/redline2.jpg "redline")
+
+We identified the Atlantic neighborhood as the number 1 ranked area in our analysis, a formerly redlined district with a large youth population of color.
+
+![alt text](readMe_assets/img/redline3.jpg "redline")
 
 ***
 ## Tech Stack
