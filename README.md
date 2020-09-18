@@ -8,13 +8,15 @@ The project was presented on August 25th, 2020, and can be viewed and accessed: 
 
 ### Summary
 For decades, the US mortgage industry systematically denied mortgages to people of color through the practice of red-lining, which institutionalized racial segregation. This project team’s analysis focuses on Seattle, linking the city’s history of red-lining with current air pollution levels and health trends. Their data suggests that previously red-lined areas suffer from higher rates of pollution and asthma today than communities zoned as “desirable” in the 1940s. It also finds that people of color are currently underrepresented in air monitoring coverage in Seattle.
+
+![alt text](readMe_assets/img/final_map.jpg "Final multi-criteria map")
 ***
 ### Summary of Methodology
 #### Multi-Criteria Weighted Overlay Analysis to identify neighborhoods of Seattle suitable for community-level air monitoring strategies, and observe overlaps with the Homeowner Loan Corporation 1936's "Grade of Security" (Redlining) Map.
 
 ![alt text](readMe_assets/img/MultiCriteria_GIF.gif "Banner")
 
-<b> Part I: Feature Selection & Weight Assignment </b>
+##### Part I: Feature Selection & Weight Assignment
 
 <b> 1. Puget Sound Clean Air Agency (PSCAA)’s 2014 Cumulative Risk Assessment: Highly Impacted Communities </b>
 
@@ -65,13 +67,21 @@ Assuming that these sites can be designated to host a low-cost sensors, I didn't
 
 Data Source: https://data.seattle.gov/Land-Base/2018-Traffic-Flow-Counts/e9vy-mn8x
 
+Motor vehicles contribute to more than 50% of air pollution in urban areas, therefore proximity to arteries of traffic was an important perimeter to consider. Using a 2018 traffic count survey, I broke down the data into 5 categories using Natural Jenks. I then exported and dissolved each category as its own layer, and created a 300 m buffer around each categories to which I assigned weights. I chose [300 m as the estimated lower range of zonal exposure]
+(https://www.ncbi.nlm.nih.gov/books/NBK361807/#proximityc.s3:~:text=The%20Health%20Effects%20Institute%20Panel%20identified,pollution%20concentrations%2C%20meteorological%20conditions%2C%20and%20season) to fine particulate matter.
+
 ![alt text](readMe_assets/img/feat5.jpg "PSCAA data")
 
 <b> 6. Proximity to Major Traffic Arteries (Interstates I-5 and I-90) </b>
 
 Data Source: https://data.seattle.gov/Land-Base/Street-Network-Database-SND-/nvgs-5agd
 
+According to the [Center for Disease Control](https://ephtracking.cdc.gov/showProximityToHighways.action), about 4% of the U.S. population lives within 150 meters (about 2 city blocks) of a major highway. This suggests that people living in these areas are at increased risk for exposure to traffic-related air pollutants, including particulate matter. I identified Interstates I-5 and I-90 as Seattle's two major traffic arteries, and assigned weights based on three ranges of proximity.
+
 ![alt text](readMe_assets/img/feat6.jpg "PSCAA data")
+
+##### Part II: 
+
 
 ***
 ## Tech Stack
