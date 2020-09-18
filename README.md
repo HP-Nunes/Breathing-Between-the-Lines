@@ -8,7 +8,8 @@ The project was presented on August 25th, 2020, and can be viewed and accessed: 
 ### Summary
 For decades, the US mortgage industry systematically denied mortgages to people of color through the practice of red-lining, which institutionalized racial segregation. This project team’s analysis focuses on Seattle, linking the city’s history of red-lining with current air pollution levels and health trends. Their data suggests that previously red-lined areas suffer from higher rates of pollution and asthma today than communities zoned as “desirable” in the 1940s. It also finds that people of color are currently underrepresented in air monitoring coverage in Seattle.
 ***
-### Methodology: Multi-Criteria Weighted Overlay Analysis to identify neighborhoods of Seattle suitable for community-level air monitoring strategies, and observe overlaps with the Homeowner Loan Corporation 1936's "Grade of Security" (Redlining) Map.
+### Summary of Methodology
+#### Multi-Criteria Weighted Overlay Analysis to identify neighborhoods of Seattle suitable for community-level air monitoring strategies, and observe overlaps with the Homeowner Loan Corporation 1936's "Grade of Security" (Redlining) Map.
 
 ![alt text](readMe_assets/img/MultiCriteria_GIF.gif "Banner")
 
@@ -31,7 +32,7 @@ The Racial and Social Equity Index combines information on race, ethnicity, and 
 ![alt text](readMe_assets/img/feat2.jpg "2020 Racial and Social Equity Composite Index")
 
 3. Zone of coverage of PurpleAir's sensors in Seattle, WA.
-Data Source: 
+Data Source: https://www.purpleair.com/map#15.19/37.781857/-122.489357
 
 ![alt text](readMe_assets/img/feat3.jpg "PSCAA data")
 
