@@ -1,7 +1,7 @@
 # Breathing Between the Lines: the legacy of red-lining on risk factors of air pollution in Seattle, WA
 
 ![alt text](readMe_assets/img/banner2.png "Banner")
-A collaborative project by Hadrien Picq and Johnathan Padilla
+A collaborative project by Hadrien Picq & Johnathan Padilla (June - August 2020), and Thomas Kidd (June 2020)
 
 ## Final project for the TechSoup and ParsonsTKO Summer 2020 Data Strategy Mentorship Program.
 
