@@ -135,8 +135,9 @@ What this indicates is that the vulnerability indices within the top quantile of
 ## Tech Stack
 
 * Jupyter Notebook
-* Python 3.8. 3
-* QGIS
+* Python 3.8.3
+* QGIS 3.14.1
+  * CrimeStat Plugin for Spatial Autocorrelation analysis
 
 Packages:
 * pandas
