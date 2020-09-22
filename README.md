@@ -19,6 +19,14 @@ Our research four general areas in the city of Seattle that have inadequate loca
 
 ![alt text](readMe_assets/img/final_map.jpg "Final multi-criteria map")
 ***
+### Reference Notebooks
+#### Data Collection
+* [Using APIs to collect air quality data](https://nbviewer.jupyter.org/github/HP-Nunes/Breathing-Between-the-Lines/blob/master/Thomas/AQS%20API%20GUIDE.ipynb) by Thomas Kidd
+* [Using OpenAQ's API and AWS](https://nbviewer.jupyter.org/github/HP-Nunes/Breathing-Between-the-Lines/blob/master/Thomas/Air%20Quality.ipynb) by Thomas Kidd
+
+#### Data Collection
+
+***
 ### Summary of Methodology
 #### Multi-Criteria Weighted Overlay Analysis to identify neighborhoods of Seattle suitable for community-level air monitoring strategies, and observe overlaps with the Homeowner Loan Corporation 1936's "Grade of Security" (Redlining) Map.
 
