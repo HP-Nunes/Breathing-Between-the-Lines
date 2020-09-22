@@ -122,6 +122,15 @@ We identified the Atlantic neighborhood as the number 1 ranked area in our analy
 
 ![alt text](readMe_assets/img/redline3.jpg "redline")
 
+##### Part V: Evaluating the multi-criteria model
+Using spatial autocorrelation, we observe whether the indices of our multi-criteria analysis are clustered (i.e. neighborhoods with similar index value will be close to one another) or dispersed.
+
+![alt text](readMe_assets/img/spatialAuto.png "redline")
+
+Neighborhoods where Moran's I was not statistically significant (where p > 0.05) are faded. A positive Moran's I indicates positive autocorrelation, i.e. similar values are clustered together. Nearly all neighborhoods identified in the top quantile of our multi-criteria overlay analysis (white outlines) exhibited positive autocorrelation and were statistically significant at the 5% significance level.
+
+What this indicates is that the vulnerability indices within the top quantile of our multi-criteria overlay analysis are not randomly distributed.
+
 ***
 ## Tech Stack
 
