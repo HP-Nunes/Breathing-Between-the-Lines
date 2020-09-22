@@ -19,12 +19,19 @@ Our research four general areas in the city of Seattle that have inadequate loca
 
 ![alt text](readMe_assets/img/final_map.jpg "Final multi-criteria map")
 ***
-### Reference Notebooks
+### Reference IPython Notebooks
 #### Data Collection
 * [Using APIs to collect air quality data](https://nbviewer.jupyter.org/github/HP-Nunes/Breathing-Between-the-Lines/blob/master/Thomas/AQS%20API%20GUIDE.ipynb) by Thomas Kidd
 * [Using OpenAQ's API and AWS](https://nbviewer.jupyter.org/github/HP-Nunes/Breathing-Between-the-Lines/blob/master/Thomas/Air%20Quality.ipynb) by Thomas Kidd
+* [Using OpenAQ's API, a beginner's walkthrough](https://nbviewer.jupyter.org/github/HP-Nunes/Breathing-Between-the-Lines/blob/master/Hadrien/api_OpenAQ.ipynb) by Hadrien Picq
 
-#### Data Collection
+#### Data Wrangling
+* [Wrangling a PurpleAir's CSV](https://nbviewer.jupyter.org/github/HP-Nunes/Breathing-Between-the-Lines/blob/master/Johnathan/Air%20Quality%20notebook.ipynb) by Johnathan Padilla
+* [Batching Function for wrangling multiple PurpleAir's CSV](https://github.com/HP-Nunes/Breathing-Between-the-Lines/blob/master/Hadrien/purpleAir.py) by Hadrien Picq (Python script)
+
+#### Data Analysis
+* [Gathering insights from U.S. Census Data & HOLC-grade's boundaries (formatted in QGIS)](https://nbviewer.jupyter.org/github/HP-Nunes/Breathing-Between-the-Lines/blob/master/Johnathan/SummarizingDemographicVariablesWithinPurpleAirMonitorZoneOfCoverage.ipynb) by Johnathan Padilla
+* [Extracting Demographic Info of Interest by HOLC-grade boundaries](https://nbviewer.jupyter.org/github/HP-Nunes/Breathing-Between-the-Lines/blob/master/Hadrien/mapping.ipynb) by Hadrien Picq
 
 ***
 ### Summary of Methodology
