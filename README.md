@@ -9,7 +9,7 @@ This project was presented and recorded on August 25th, 2020 for ParsonsTKO's Da
 
 Watch the presentation
 
-[![](http://img.youtube.com/vi/z3ymkYlTRkI/0.jpg)](http://www.youtube.com/watch?v=z3ymkYlTRkI "Data for Social Impact: Urban Inequities in Air Quality")
+[![alt text](http://img.youtube.com/vi/z3ymkYlTRkI/0.jpg)](http://www.youtube.com/watch?v=z3ymkYlTRkI "Data for Social Impact: Urban Inequities in Air Quality")
 
 A storymap of the content is also accessible: https://www.arcgis.com/apps/Cascade/index.html?appid=30ed983e06024f278aba835cc1287151
 
