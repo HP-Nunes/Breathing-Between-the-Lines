@@ -145,6 +145,20 @@ Using spatial autocorrelation, we observe whether the indices of our multi-crite
 Neighborhoods where Moran's I was not statistically significant (where p > 0.05) are faded. A positive Moran's I indicates positive autocorrelation, i.e. similar values are clustered together. Nearly all neighborhoods identified in the top quantile of our multi-criteria overlay analysis (white outlines) exhibited positive autocorrelation and were statistically significant at the 5% significance level.
 
 What this indicates is that the vulnerability indices within the top quantile of our multi-criteria overlay analysis are not randomly distributed.
+***
+## Feedback & Follow-Up (Updated November 2020)
+
+I was fortunate to have staff at the Puget Sound Clean Air Agency review this project, quoted below:
+
+> Here are a few technical suggestions for your analysis: 
+>
+> -The nature of the distribution of PM2.5 is generally characterized by a 5km radius. Your analysis shows a 6km radius covers almost the entire area.  Of course, when looking at the whole four county region there are plenty of locations that are >5km away from a monitor.
+>
+> -The analysis acknowledges the regulatory monitors, but doesn’t include them. Prioritized neighborhoods #2 and #3 are right next to the Chinatown-International District station.  It probably isn't necessary to prioritize having a Purple Air next to a regulatory monitor, except for calibration purposes.
+>
+> -Topography/proximity to Puget Sound (or similar meteorological surrogates) could be considered. Some of these appear up the hill like area #4, 7, 9, & 10 are potentially higher elevation, possibly cleaner areas.
+>
+> -> The CAT tool takes into account a lot of the other layers you add in separately. This basically double counts those measures.
 
 ***
 ## Tech Stack
