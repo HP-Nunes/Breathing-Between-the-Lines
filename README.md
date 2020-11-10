@@ -7,7 +7,7 @@ A collaborative project by Hadrien Picq & Johnathan Padilla (June - August 2020)
 
 This project was presented and recorded on August 25th, 2020 for ParsonsTKO's Data for Social Impact: Racial and Economic Justice Conference. The presentation's material and recording can be accessed at https://parsonstko.com/data-for-social-impact-conference/
 
-Watch the presentation
+Watch the presentation:
 
 [![alt text](http://img.youtube.com/vi/z3ymkYlTRkI/0.jpg)](http://www.youtube.com/watch?v=z3ymkYlTRkI "Data for Social Impact: Urban Inequities in Air Quality")
 
